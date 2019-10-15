@@ -26,5 +26,5 @@ int main()
     cout<<"The result is"<<c;
     return 0;
 }
-
+//good job
 
